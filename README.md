@@ -210,4 +210,4 @@ Aethermancer is offered as a complete free version with all features and updates
 Don’t miss out on the adventure! Download Aethermancer now and start capturing creatures while strategizing your way through a dynamic world!
 
 ---
-**Last updated:** 2026-10-04 04:57:16 UTC
+**Last updated:** 2026-10-04 11:03:02 UTC
